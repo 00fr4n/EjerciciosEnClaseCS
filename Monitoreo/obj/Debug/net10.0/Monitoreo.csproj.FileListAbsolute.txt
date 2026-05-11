@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\bin\Debug\net10.0\Monitoreo.exe
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\bin\Debug\net10.0\Monitoreo.deps.json
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\bin\Debug\net10.0\Monitoreo.runtimeconfig.json
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\bin\Debug\net10.0\Monitoreo.dll
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\bin\Debug\net10.0\Monitoreo.pdb
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\obj\Debug\net10.0\Monitoreo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\obj\Debug\net10.0\Monitoreo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\obj\Debug\net10.0\Monitoreo.AssemblyInfo.cs
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\obj\Debug\net10.0\Monitoreo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\obj\Debug\net10.0\Monitoreo.sourcelink.json
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\obj\Debug\net10.0\Monitoreo.dll
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\obj\Debug\net10.0\refint\Monitoreo.dll
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\obj\Debug\net10.0\Monitoreo.pdb
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\obj\Debug\net10.0\Monitoreo.genruntimeconfig.cache
+C:\Users\User\Desktop\GrupoProgCS\Monitoreo\obj\Debug\net10.0\ref\Monitoreo.dll
